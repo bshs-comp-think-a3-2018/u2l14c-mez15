@@ -1,0 +1,16 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+}
+h1 {
+  font-weight: bold;
+  color: aliceblue;
+}
+img {
+  width: 400px;
+  border-style: dotted;
+  border-color: aliceblue;
+  border-radius: 20px;
+}
